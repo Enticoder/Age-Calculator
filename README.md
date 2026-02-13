@@ -51,7 +51,7 @@ Age-Calculator/
 
 ## 📸 Preview
 
-(Add a screenshot of your project here if you want)
+(How i can add a screenshot of my project here if you want to know look at given below example)
 
 Example:
 
