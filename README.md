@@ -1,7 +1,7 @@
 
- # 🎂 Age Calculator
-A responsive **Age Calculator Web Application** built using **HTML, CSS, and JavaScript**. 
-It calculates a user's exact age in **years, months, and days** based on their date of birth.
+# 🎂 Age Calculator
+* A responsive **Age Calculator Web Application** built using **HTML, CSS, and JavaScript**. 
+* It calculates a user's exact age in **years, months, and days** based on their date of birth.
 ---
 
 ## 📸 Preview
