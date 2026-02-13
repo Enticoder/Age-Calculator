@@ -21,9 +21,9 @@ A responsive **Age Calculator Web Application** built using **![HTML](https://im
 
 ## 🛠️ Tech Stack
 
-* **HTML5** – Structure
-* **CSS3** – Styling & Layout
-* **JavaScript (ES6)** – Age calculation logic
+* ![HTML](https://img.shields.io/badge/HTML-5-orange) – Structure
+* ![CSS](https://img.shields.io/badge/CSS-3-blue)– Styling & Layout
+* ![JavaScript](https://img.shields.io/badge/JavaScript-ES6-yellow) – Age calculation logic
 
 ---
 
