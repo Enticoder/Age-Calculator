@@ -1,10 +1,7 @@
 
  # 🎂 Age Calculator
-A responsive **Age Calculator Web Application** built using **HTML, CSS, and JavaScript**. It calculates a user's exact age in **years, months, and days** based on their date of birth.
-![HTML](https://img.shields.io/badge/HTML-5-orange)
-![CSS](https://img.shields.io/badge/CSS-3-blue)
-![JavaScript](https://img.shields.io/badge/JavaScript-ES6-yellow)
-
+A responsive **Age Calculator Web Application** built using **![HTML](https://img.shields.io/badge/HTML-5-orange), ![CSS](https://img.shields.io/badge/CSS-3-blue), and ![JavaScript](https://img.shields.io/badge/JavaScript-ES6-yellow)
+**. It calculates a user's exact age in **years, months, and days** based on their date of birth.
 ---
 
 ## 📸 Preview
